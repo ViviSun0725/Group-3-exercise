@@ -21,6 +21,12 @@ git pull origin dev
 git checkout -b feature/your-name-task
 ```
 
+或
+
+```bash
+git checkout -b issue/1
+```
+
 5. 隨意練習修改
 
 6. 本地 commit→push 遠端 repo
@@ -30,6 +36,8 @@ git add .
 git commit -m "commit訊息"
 git push origin feature/your-name-task
 ```
+
+7. 到 Github 發 PR
 
 ### 開發前例行步驟
 
