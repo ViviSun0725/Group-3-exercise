@@ -1,6 +1,6 @@
 ### 開分支步驟
 
-1. Clone
+1. 在自己電腦要存專案的父位置 把專案Clone下來
 
 ```bash
 git clone https://github.com/ViviSun0725/team-3-exercise.git
